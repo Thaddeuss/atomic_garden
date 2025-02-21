@@ -3,7 +3,9 @@
 ---
 
 
-##<header role="banner"> <p>Welcome!</p> </header> <nav role="navigation"> <ul> <li>[[AtomicGarden/heart\|heart]]</li> </ul> </nav> <main role="main"> <p>Vítejte v mé "digitální zahrádce". Neustále v procesu růstu a místo kam směřuji věci které mi připadají zajímavé. Možná přijdou zajímavé i někomu jinému 🙂 
+##<header role="banner"> <p>Welcome!</p> </header>
+
+<main role="main"> <p>Vítejte v mé "digitální zahrádce". Neustále v procesu růstu a místo kam směřuji věci které mi připadají zajímavé. Možná přijdou zajímavé i někomu jinému 🙂 
 
 > Návod jak si zdarma založit svojí "zahradu": [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/)
 
@@ -20,5 +22,3 @@ Navíc si chci procvičit psaní a formulování myšlenek.
 V budoucnu chci nasdilet nástroje, podněty které  mohou pomoci v budování dobrých návyků a ústup od těch špatných.
 </p> </main> 
 [[AtomicGarden/Několik oblíbených Windows aplikací\|Několik oblíbených Windows aplikací]]
-
-<footer role="contentinfo"> <p>Put copyright, etc. here.</p> </footer>
