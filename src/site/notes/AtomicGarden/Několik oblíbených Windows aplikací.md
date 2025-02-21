@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AtomicGarden/Několik oblíbených Windows aplikací/","tags":["windows"],"noteIcon":"","created":"2025-02-20T20:21:05.000+01:00","updated":"2025-02-20T20:32:31.000+01:00"}
+{"dg-publish":true,"permalink":"/atomic-garden/nekolik-oblibenych-windows-aplikaci/","tags":["windows"]}
 ---
 
 ---
