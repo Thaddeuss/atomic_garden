@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-garden/nekolik-oblibenych-windows-aplikaci/","tags":["windows"]}
+{"dg-publish":true,"permalink":"/atomic-garden/nekolik-oblibenych-windows-aplikaci/","tags":["windows"],"created":"2025-02-20T20:21:05.227+01:00","updated":"2025-02-21T15:02:44.592+01:00"}
 ---
 
 ---
 
-🌳Několik Windows nástrojů, které používám těměř každý den a jsou zdarma.
+🌳Několik nástrojů, které používám těměř každý den a jsou zdarma.
 
 ➡️**PureRef**🖼️: Nekonečné plátno pro vložení obrázků k referenci. Tvoření "moodboardů". https://www.pureref.com/download.php
 
@@ -17,5 +17,6 @@
 ➡️**FlowLauncher**✈️: Rychlé vyhledávání a spouštění aplikací. https://www.flowlauncher.com/
 
 ➡️**PowerToys**💪: Sada nástrojů pro přizpůsobení Windows. https://github.com/microsoft/PowerToys
+
 
 **[[AtomicGarden/Home Page\|Home]]**<p align="justify"></p>

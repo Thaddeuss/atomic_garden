@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-garden/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/atomic-garden/home-page/","tags":["gardenEntry"],"created":"2025-02-19T16:31:49.000+01:00","updated":"2025-02-21T14:56:12.188+01:00"}
 ---
-
 
 <header role="banner"> <p>Welcome!</p> </header>
 
