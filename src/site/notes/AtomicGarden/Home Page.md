@@ -3,7 +3,7 @@
 ---
 
 
-##<header role="banner"> <p>Welcome!</p> </header>
+<header role="banner"> <p>Welcome!</p> </header>
 
 <main role="main"> <p>Vítejte v mé "digitální zahrádce". Neustále v procesu růstu a místo kam směřuji věci které mi připadají zajímavé. Možná přijdou zajímavé i někomu jinému 🙂 
 
